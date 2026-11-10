@@ -5,8 +5,9 @@
 Desenvolvedor full-stack sênior com mais de cinco anos de experiência e atuação **full-cycle**. Trabalho da arquitetura e do código à publicação na **AWS**, com foco em escalabilidade.
 
 - Automatizo builds, testes e deploys com **CI/CD** e uso ambientes separados para validar mudanças antes de publicar.
-- Uso **Docker** para empacotar serviços e **Kubernetes** para orquestrar a execução e escalar conforme a demanda.
-- Uso **filas e mensageria** para executar tarefas demoradas em segundo plano e manter as APIs responsivas.
+- Tenho experiência profissional em **cloud e infraestrutura** com **AWS**, **Docker** e **Kubernetes**, da publicação à operação de aplicações.
+- Tenho experiência profissional com **RabbitMQ** e desenvolvi do zero uma solução interna de mensageria para processar tarefas em segundo plano.
+- Em **IA aplicada**, tenho conhecimentos em **LLMs**, **RAG**, guardrails, criação de agentes, engenharia de prompts e avaliação de respostas.
 
 ## Projetos principais
 
