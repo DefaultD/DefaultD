@@ -12,17 +12,19 @@ Desenvolvedor full-stack sênior com mais de cinco anos de experiência e atuaç
 
 ### 🪐 Orion v2
 
-**Plataforma para operações de marketplace · Código privado**
+**Em desenvolvimento · Código privado**
 
-Reúne pesquisa de produtos, catálogo, estoque e campanhas em um só ambiente. A IA auxilia na pesquisa e na criação de rascunhos de mídia, com revisão humana antes de avançar.
+Plataforma para operações de marketplace que reúne pesquisa de produtos, catálogo, estoque e campanhas em um só ambiente. A IA auxilia na pesquisa e na criação de rascunhos de mídia, com revisão humana antes de avançar.
 
 `TypeScript` · `Next.js` · `NestJS` · `PostgreSQL` · `Python` · `Docker`
 
 ### OrbixHub
 
-**SaaS multi-tenant de gestão operacional**
+**SaaS multi-tenant para oficinas e assistências técnicas**
 
-Cada empresa tem seu próprio ambiente para controlar estoque e despesas, gerenciar a equipe, emitir ordens de serviço e operar o caixa. O **Orbix Admin** integra o suporte à plataforma.
+Cada empresa tem seu próprio ambiente para controlar estoque e despesas, gerenciar a equipe, emitir ordens de serviço e operar o caixa. O **Orbix Admin** centraliza o suporte ao produto.
+
+[Site oficial](https://orbixsystem.com/) · [Acessar OrbixHub](https://hub.orbixsystem.com/#/login) · [Acessar Orbix Admin](https://admin.orbixsystem.com/#/login)
 
 ## Repositórios em destaque
 
