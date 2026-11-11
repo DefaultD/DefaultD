@@ -45,3 +45,7 @@ Cada empresa tem seu próprio ambiente para controlar estoque e despesas, gerenc
 | Backend | Frontend | Dados | Infraestrutura |
 | --- | --- | --- | --- |
 | Node.js · TypeScript · NestJS · Fastify · Python | Vue · Nuxt · React · Next.js | PostgreSQL · Prisma · Firebase | AWS · Docker · Kubernetes · CI/CD |
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/kauesobral/) · [E-mail](mailto:kaue.sobral19@gmail.com) · [GitHub](https://github.com/DefaultD)
